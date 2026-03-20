@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Nerior-team/Hack2026-spring-Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Nerior-team/Hack2026-spring-Frontend.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Nerior-team/Hack2026-spring-Mobile.git
